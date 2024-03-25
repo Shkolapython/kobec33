@@ -1,0 +1,38 @@
+nav{
+   
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+  
+}
+nav a{
+    text-decoration: none;
+    border: 2px solid blue;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 0 35px 0 35px;
+    color: black;
+}
+nav a:focus{
+    background-color: blue;
+    color: white;
+}
+body{
+    background-color: rgb(196, 249, 233);
+}
+.q{
+    background-color: blue;
+    color: blanchedalmond;
+}
+.z{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.img img{
+
+    width: 500px;
+    height: 500px;
+    border: 5px dashed black;
+    margin: 20px;
+}
